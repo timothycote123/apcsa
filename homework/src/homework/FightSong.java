@@ -1,5 +1,7 @@
 package homework;
 
+/* Timothy Cote Chapter 1 Exercise 12 */
+
 public class FightSong {
 	public static void main(String[] args) {
 		writeText();
